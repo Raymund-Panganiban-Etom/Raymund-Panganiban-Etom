@@ -1,4 +1,4 @@
-                                                                                 # 👋 Hi, I'm ETOM  
+# 👋 Hi, I'm ETOM  
 
 Welcome to my GitHub profile!  
 I specialize in **Web Development** and **IoT solutions**, combining creativity with technical expertise.  
