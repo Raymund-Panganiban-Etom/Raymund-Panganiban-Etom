@@ -8,7 +8,7 @@ I specialize in **Web Development** and **IoT solutions**, combining creativity 
 ## 🚀 Skills & Specializations  
 
 ### 🌐 Web Development  
-<p align="left">
+<p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
@@ -16,7 +16,7 @@ I specialize in **Web Development** and **IoT solutions**, combining creativity 
 </p>
 
 ### 🤖 IoT & Embedded Systems  
-<p align="left">
+<p align="center">
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
 </p>
