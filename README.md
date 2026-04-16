@@ -9,24 +9,16 @@ I specialize in **Web Development** and **IoT Solutions**, blending creativity w
 
 ### 🌐 Web Development  
 <p align="center">
-  <table>
-    <tr>
-      <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" height="50"><br>HTML5</td>
-      <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" height="50"><br>CSS3</td>
-      <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50"><br>JavaScript</td>
-      <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="50" height="50"><br>PHP</td>
-    </tr>
-  </table>
+  <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" height="50"><br>HTML5</span>
+  <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" height="50"><br>CSS3</span>
+  <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50"><br>JavaScript</span>
+  <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="50" height="50"><br>PHP</span>
 </p>
 
 ### 🤖 IoT & Embedded Systems  
 <p align="center">
-  <table>
-    <tr>
-      <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="50" height="50"><br>Arduino</td>
-      <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50"><br>Python</td>
-    </tr>
-  </table>
+  <span><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="50" height="50"><br>Arduino</span>
+  <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50"><br>Python</span>
 </p>
 
 
