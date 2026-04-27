@@ -68,7 +68,7 @@ Welcome to my digital workbench. I am passionate about low-level architecture, b
 <div align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" height="50" title="HTML5" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/48/raspberry-pi.png" height="40" title="Orange Pi / Single Board Computers" />
+  <img src="(https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" height="50" title="CSS"/>
   &nbsp;&nbsp;&nbsp;
   <img src="https://img.icons8.com/color/48/console.png" height="40" title="Assembly" />
   &nbsp;&nbsp;&nbsp;
