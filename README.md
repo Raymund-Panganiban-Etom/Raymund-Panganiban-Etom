@@ -66,7 +66,7 @@ Welcome to my digital workbench. I am passionate about low-level architecture, b
 ### Tech Stack & Tools
 
 <div align="center">
-  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" height="40" title="Arduino](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" height="50")" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" height="50" />
   &nbsp;&nbsp;&nbsp;
   <img src="https://img.icons8.com/color/48/raspberry-pi.png" height="40" title="Orange Pi / Single Board Computers" />
   &nbsp;&nbsp;&nbsp;
